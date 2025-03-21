@@ -1,1 +1,21 @@
-# fcs-diffusion-coefficients-notebook
+# Diffusion Coefficients of Fluorophores for FCS Calibration
+
+This Jupyter notebook examines the temperature-dependent changes in fluorophore diffusion coefficients, providing values required for calibrating the confocal volume in Fluorescence Correlation Spectroscopy (FCS). The diffusion coefficients are calculated by accounting for temperature variations and solvent viscosity.
+
+## Requirements
+
+- Python 3.x
+- NumPy
+- Matplotlib
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/repository-name.git
+
+## Contact
+@author: Joel A. Crossley <br />
+@email: j.a.crossley@leeds.ac.uk <br />
+@institution: University of Leeds <br />
