@@ -8,13 +8,6 @@ This Jupyter notebook examines the temperature-dependent changes in fluorophore 
 - NumPy
 - Matplotlib
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
-
 ## Contact
 @author: Joel A. Crossley <br />
 @email: j.a.crossley@leeds.ac.uk <br />
